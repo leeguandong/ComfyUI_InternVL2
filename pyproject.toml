@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_internvl2"
+description = "ComfyUI for [a/InternVL](https://github.com/OpenGVLab/InternVL)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_InternVL2"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_InternVL2"
+Icon = ""
